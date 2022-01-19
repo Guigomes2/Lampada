@@ -1,0 +1,20 @@
+header, main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    width: 100px;
+    margin: 0.5em;
+    padding: 0.25em 1em;
+    border: none;
+    border-radius: 0.25em;
+    background: #eee;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#lamp {
+    width: 250px;
